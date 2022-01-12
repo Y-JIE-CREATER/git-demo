@@ -30,4 +30,4 @@ local insert
 local insert
 local insert
 SSH TEST：this is github insert, local git has not this tune!!!
-测试，将远程库设置为public后，本地库采用http请求是否可以直接上传
+测试，将远程库设置为public后，本地库采用http请求是否可以直接上传  ---答案是否定的，必须github账号密码登录或者SSH方式才可以push
