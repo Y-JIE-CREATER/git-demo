@@ -8,6 +8,8 @@ hello.txt 77777
 hello.txt 88888
 hello.txt
 hello.txt
+hello.txt
+hello.txt
 hello.txt 88888
 hello.txt 99999
 hello.txt 10000
@@ -17,3 +19,7 @@ hello.txt master test
 hello.txt
 hello.txt hot-fix test
 github insert
+local insert
+local insert
+local insert
+local insert
