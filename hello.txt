@@ -17,6 +17,12 @@ hello.txt #####
 hello.txt $$$$$
 hello.txt master test
 hello.txt local change this area to confirm the merge
+①经过实验证明，在文档的同一个位置，远程库和本地库都改代码，会发生冲突。需要手动决定取舍！！！
+②倘若本地库与远程库同步后，远程库也有更改，本地库也有更改，需要先在本地库git pull远程库，然后在git push
+且在git pull的过程中，如果本地库和远程库更改代码的位置不同，不会发生冲突，会直接合并代码
+③上述git pull过程中，即使代码相对位置发生变动（例如其上增加了新的行），只要本地与远程没有针对某个代码同时修改，
+也不会发生冲突。即git在此过程中，不是按行判断内容是否更改，而是识别到某个具体的代码。
+hello.txt merget test if conflict
 hello.txt hot-fix test
 github insert
 local insert
