@@ -16,7 +16,7 @@ hello.txt 10000
 hello.txt #####
 hello.txt $$$$$
 hello.txt master test
-hello.txt
+hello.txt local change this area to confirm the merge
 hello.txt hot-fix test
 github insert
 local insert
