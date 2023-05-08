@@ -45,16 +45,7 @@ $$
 \rm \frac{\dfrac{1}{x}+y}{y+z}
 $$
 
-$$
-\times,\div,\cdot,\pm,\mp,\ll,\gg,\ge,\le,\equiv,\ne,\\
-\cup,\cap,\in,\notin,\subset,\subseteq,\subsetneqq,\varnothing\\
-\forall,\exists,\nexists,\\
-\because,\therefore,\\
 
-\mathbb R,\Z,\N,\Z_+,\Q\\
-\mathcal {R ,Z,N,Z_+,Q,F,L}\\
-\mathscr {R.Z,N,Z_+,Q,F,L}
-$$
 
 $$
 \cdot,\cdots,\vdots,\ddots,
@@ -67,10 +58,10 @@ $$
 
 > 运算符中的字母也用罗马体
 $$
-> \log_2 x,\lg x,\sin x,\sec x,\cos x,\\
-> \lim_{x \to 0}{\frac{x}{\sin x}}\\
-> \max x \\
-> \lim\limits_{x \to 0}{\frac{x}{\sin x}}
+\log_2 x,\lg x,\sin x,\sec x,\cos x,\\
+\lim_{x \to 0}{\frac{x}{\sin x}}\\
+\max x \\
+\lim\limits_{x \to 0}{\frac{x}{\sin x}}
 $$
 
 $$
