@@ -22,7 +22,6 @@ _强调文本_
 
 一个具有注脚的文本。[^2]
 
-Markdown将文本转换为 HTML。
 
 
 ## 复习Latex
@@ -67,12 +66,12 @@ $$
 $$
 
 > 运算符中的字母也用罗马体
-> $$
+$$
 > \log_2 x,\lg x,\sin x,\sec x,\cos x,\\
 > \lim_{x \to 0}{\frac{x}{\sin x}}\\
 > \max x \\
 > \lim\limits_{x \to 0}{\frac{x}{\sin x}}
-> $$
+$$
 
 $$
 {\rm MSE} (x)
