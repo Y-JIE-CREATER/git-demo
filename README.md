@@ -57,6 +57,8 @@ $$
 $$
 
 > 运算符中的字母也用罗马体
+
+
 $$
 \log_2 x,\lg x,\sin x,\sec x,\cos x,\\
 \lim_{x \to 0}{\frac{x}{\sin x}}\\
@@ -68,9 +70,6 @@ $$
 {\rm MSE} (x)
 $$
 
-$$
-\lim_{N \to \infty}{P\left\{\left|\frac{I\left(\alpha_i\right)}{N}-H(s)\right|<\varepsilon\right\}=1}
-$$
 
 
 $$
