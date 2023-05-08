@@ -77,6 +77,11 @@ x(n) = \frac {1} {2\pi}{\int_{-\pi}^{\pi}{X(e^{{\rm j}\omega})e^{{\rm j}\omega n
 $$
 
 $$
+\lim_{N \to \infty}{P\left\{\left|\frac{I\left(\alpha_i\right)}{N}-H(s)\right|<\varepsilon\right\}=1}
+$$
+
+
+$$
 \prod_{i=0}^N\\
 \sum
 $$
