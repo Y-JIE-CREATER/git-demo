@@ -25,6 +25,12 @@ _强调文本_
 Markdown将文本转换为 HTML。
 
 
+$$
+\delta,\lambda,\Delta,\Lambda,\sigma,\Sigma,\phi,\varphi,\\
+\epsilon,\varepsilon,\alpha,\beta,\eta,\omega,\Omega\\
+\mu,\theta,\Theta,
+$$
+
 
 
 
